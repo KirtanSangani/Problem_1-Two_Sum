@@ -1,1 +1,1 @@
-# Problem-5---Two-Sum
+# Problem 1: Two Sum
